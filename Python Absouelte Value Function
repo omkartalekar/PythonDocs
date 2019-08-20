@@ -1,0 +1,8 @@
+x = abs(-7.25)
+print(x)
+
+print('All Function')
+list = ['A','B','C']
+x =all(list)
+print(x)
+
